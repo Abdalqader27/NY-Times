@@ -29,7 +29,7 @@ to run the test write this command in your termanial to lunch your app mock test
 ## Feature
 - [X] List daily news.
 - [X] Refresh list daily news with pull to refresh style.
-- [X] Go to detail news website.
+- [X] Go to detail Article.
 - [X] Dark mode support.
 - [X] Unit Testing.
 - [X] Flutter Animation.
