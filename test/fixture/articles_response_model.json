@@ -1,0 +1,1148 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/1222a343-a7ec-5850-9b72-fef4687b43fd",
+      "url": "https://www.nytimes.com/2023/04/24/business/media/don-lemon-cnn.html",
+      "id": 100000008872080,
+      "asset_id": 100000008872080,
+      "source": "New York Times",
+      "published_date": "2023-04-24",
+      "updated": "2023-04-24 23:36:25",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Television;News and News Media;Appointments and Executive Changes;Lemon, Don;Harlow, Poppy;Collins, Kaitlan;Licht, Christopher A (1971- );CNN",
+      "column": null,
+      "byline": "By Michael M. Grynbaum, John Koblin and Benjamin Mullin",
+      "type": "Article",
+      "title": "Don Lemon Ousted From CNN in Move That Left Him ‘Stunned’",
+      "abstract": "Mr. Lemon, one of the network’s most recognizable stars, had been under scrutiny since an uproar over on-air remarks he made about women and aging in February.",
+      "des_facet": [
+        "Television",
+        "News and News Media",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "CNN"
+      ],
+      "per_facet": [
+        "Lemon, Don",
+        "Harlow, Poppy",
+        "Collins, Kaitlan",
+        "Licht, Christopher A (1971- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Don Lemon during a Democratic presidential primary debate in 2019. He had a reputation as a fiery political commentator at CNN.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/25/multimedia/24JPcnn-print-mhlv/24cnn-mhlv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/25/multimedia/24JPcnn-print-mhlv/24cnn-mhlv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/25/multimedia/24JPcnn-print-mhlv/24cnn-mhlv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e4d61915-b6e8-542f-8310-71386ad23241",
+      "url": "https://www.nytimes.com/2023/04/20/business/facebook-settlement-apply.html",
+      "id": 100000008867462,
+      "asset_id": 100000008867462,
+      "source": "New York Times",
+      "published_date": "2023-04-20",
+      "updated": "2023-04-21 11:44:16",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Social Media;Suits and Litigation (Civil);Computers and the Internet;Compensation for Damages (Law);Privacy;Cambridge Analytica;Facebook Inc;Meta Platforms Inc;California;United States",
+      "column": null,
+      "byline": "By Jenny Gross",
+      "type": "Article",
+      "title": "How to Claim Your Share of Facebook’s $725 Million Privacy Settlement",
+      "abstract": "Anyone who had a U.S. Facebook account between May 2007 and December 2022 is eligible to apply, though payouts are likely to be small.",
+      "des_facet": [
+        "Social Media",
+        "Suits and Litigation (Civil)",
+        "Computers and the Internet",
+        "Compensation for Damages (Law)",
+        "Privacy"
+      ],
+      "org_facet": [
+        "Cambridge Analytica",
+        "Facebook Inc",
+        "Meta Platforms Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "California",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The offices of Meta, Facebook’s parent company, in Menlo Park, Calif., in 2022.",
+          "copyright": "Jim Wilson/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/20/multimedia/20xp-facebooksettlement-01-jlmv/20xp-facebooksettlement-01-jlmv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/20/multimedia/20xp-facebooksettlement-01-jlmv/20xp-facebooksettlement-01-jlmv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/20/multimedia/20xp-facebooksettlement-01-jlmv/20xp-facebooksettlement-01-jlmv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/032225d6-c551-5213-abf4-5c088cad364a",
+      "url": "https://www.nytimes.com/2023/04/18/opinion/heart-transplant-donor.html",
+      "id": 100000008856181,
+      "asset_id": 100000008856181,
+      "source": "New York Times",
+      "published_date": "2023-04-18",
+      "updated": "2023-04-22 08:46:01",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Organ Donation;Heart;Transplants;Cancer;Death and Dying",
+      "column": null,
+      "byline": "By Amy Silverstein",
+      "type": "Article",
+      "title": "My Transplanted Heart and I Will Die Soon",
+      "abstract": "Organ transplantation is mired in stagnant science and antiquated, imprecise medicine that fails patients and organ donors.",
+      "des_facet": [
+        "Organ Donation",
+        "Heart",
+        "Transplants",
+        "Cancer",
+        "Death and Dying"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b9843a35-6db8-5895-b0c5-f9a6c63529b7",
+      "url": "https://www.nytimes.com/2023/04/24/business/media/tucker-carlson-fox-news-dismissal.html",
+      "id": 100000008872355,
+      "asset_id": 100000008872355,
+      "source": "New York Times",
+      "published_date": "2023-04-24",
+      "updated": "2023-04-25 09:30:56",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "News and News Media;Cable Television;Appointments and Executive Changes;Carlson, Tucker;Murdoch, Rupert;Murdoch, Lachlan;Scott, Suzanne;Fox News Channel;Fox Corporation",
+      "column": null,
+      "byline": "By Jeremy W. Peters, Katie Robertson and Michael M. Grynbaum",
+      "type": "Article",
+      "title": "Tucker Carlson, a Source of Repeated Controversies, Is Out at Fox News",
+      "abstract": "Mr. Carlson has been one of the network’s top-rated hosts for many years.",
+      "des_facet": [
+        "News and News Media",
+        "Cable Television",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "Fox News Channel",
+        "Fox Corporation"
+      ],
+      "per_facet": [
+        "Carlson, Tucker",
+        "Murdoch, Rupert",
+        "Murdoch, Lachlan",
+        "Scott, Suzanne"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tucker Carlson’s announcement was made less than a week after Fox settled a defamation suit for $787.5 million.",
+          "copyright": "Rebecca Noble for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/24/multimedia/OakArticle-6446a0f2-whlj/OakArticle-6446a0f2-whlj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/24/multimedia/OakArticle-6446a0f2-whlj/OakArticle-6446a0f2-whlj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/24/multimedia/OakArticle-6446a0f2-whlj/OakArticle-6446a0f2-whlj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0b7d4b82-7ab9-52a6-8153-15cad859c454",
+      "url": "https://www.nytimes.com/2023/04/17/us/ralph-yarl-kansas-city-shooting.html",
+      "id": 100000008861832,
+      "asset_id": 100000008861832,
+      "source": "New York Times",
+      "published_date": "2023-04-17",
+      "updated": "2023-04-18 09:41:48",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Black People;Yarl, Ralph;Kansas City (Mo)",
+      "column": null,
+      "byline": "By Livia Albeck-Ripka, Patrick LaForge and Christine Hauser",
+      "type": "Article",
+      "title": "84-Year-Old Is Charged in Shooting of Black Teenager Who Went to Wrong House",
+      "abstract": "Lawyers for the family of Ralph Yarl, 16, said he was critically injured when he was shot twice in Kansas City, Mo.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides",
+        "Black People"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Yarl, Ralph"
+      ],
+      "geo_facet": [
+        "Kansas City (Mo)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a95bf260-d419-5c25-8922-053cebbcbb60",
+      "url": "https://www.nytimes.com/2023/04/18/us/politics/susie-wiles-trump-desantis.html",
+      "id": 100000008854087,
+      "asset_id": 100000008854087,
+      "source": "New York Times",
+      "published_date": "2023-04-18",
+      "updated": "2023-04-19 11:07:50",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Content Type: Personal Profile;Presidential Election of 2024;United States Politics and Government;internal-sub-only;Wiles, Susie;Trump, Donald J;DeSantis, Ron;Republican Party",
+      "column": null,
+      "byline": "By Matt Flegenheimer, Maggie Haberman and Michael C. Bender",
+      "type": "Article",
+      "title": "DeSantis Tried to Bury Her. Now She’s Helping Trump Try to Bury Him.",
+      "abstract": "Susie Wiles helped Ron DeSantis become governor of Florida, but he turned against her and banished her from his orbit. Donald Trump was all too happy to bring her in from the cold.",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "internal-sub-only"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Wiles, Susie",
+        "Trump, Donald J",
+        "DeSantis, Ron"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The political consultant Susie Wiles has ascended to become perhaps the most significant voice inside Donald J. Trump’s third presidential campaign.",
+          "copyright": "Christopher Lee for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/11/multimedia/00pol-wiles-fjzc/00pol-wiles-fjzc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/11/multimedia/00pol-wiles-fjzc/00pol-wiles-fjzc-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/11/multimedia/00pol-wiles-fjzc/00pol-wiles-fjzc-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7fd013bd-d8bf-5462-a184-09895df65a1c",
+      "url": "https://www.nytimes.com/2023/04/17/nyregion/man-charged-kaylin-gillis-driveway-shooting.html",
+      "id": 100000008863162,
+      "asset_id": 100000008863162,
+      "source": "New York Times",
+      "published_date": "2023-04-17",
+      "updated": "2023-04-19 05:30:03",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Gillis, Kaylin (2003-23);Monahan, Kevin D (1957- );Hebron (NY);Washington County (NY);Schuylerville (NY)",
+      "column": null,
+      "byline": "By Ed Shanahan",
+      "type": "Article",
+      "title": "Man Charged With Murder in Shooting of Woman Who Went Up Wrong Driveway",
+      "abstract": "Kevin Monahan shot Kaylin Gillis, 20, when she and several friends wound up outside his house in a rural part of upstate New York, the authorities said.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Gillis, Kaylin (2003-23)",
+        "Monahan, Kevin D (1957- )"
+      ],
+      "geo_facet": [
+        "Hebron (NY)",
+        "Washington County (NY)",
+        "Schuylerville (NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeffrey J. Murphy, the sheriff in Washington County, N.Y., said Kevin Monahan had “no reason” to feel threatened by the people who mistakenly drove up to his house. ",
+          "copyright": "Warren County Sheriff’s Office",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/17/nyregion/17wronghouse-death/17wronghouse-death-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/17/nyregion/17wronghouse-death/17wronghouse-death-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/17/nyregion/17wronghouse-death/17wronghouse-death-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/60755a70-043c-599e-b2a0-d9a4723b93cf",
+      "url": "https://www.nytimes.com/2023/04/18/nyregion/nyc-parking-garage-collapse.html",
+      "id": 100000008865079,
+      "asset_id": 100000008865079,
+      "source": "New York Times",
+      "published_date": "2023-04-18",
+      "updated": "2023-04-19 09:15:43",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Parking Garages and Lots;Rescues",
+      "column": null,
+      "byline": "By Ed Shanahan",
+      "type": "Article",
+      "title": "One Dead in Parking Garage Collapse in Lower Manhattan",
+      "abstract": "A portion of the four-story Ann Street structure fell in, leaving cars stacked atop one another and rubble down to street level.",
+      "des_facet": [
+        "Parking Garages and Lots",
+        "Rescues"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/270746ef-e49e-5386-9308-066dea7d0b7c",
+      "url": "https://www.nytimes.com/2023/04/17/realestate/japan-empty-houses.html",
+      "id": 100000008801371,
+      "asset_id": 100000008801371,
+      "source": "New York Times",
+      "published_date": "2023-04-17",
+      "updated": "2023-04-22 00:39:38",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Real Estate and Housing (Residential);Abandonment (Property);Rural Areas;Restoration and Renovation;internal-sub-only;Japan;Tokyo (Japan)",
+      "column": null,
+      "byline": "By Tim Hornyak",
+      "type": "Article",
+      "title": "Japan Has Millions of Empty Houses. Want to Buy One for $25,000?",
+      "abstract": "With a shrinking population and more than 10 million abandoned properties, the country is straining to match houses with curious buyers.",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Abandonment (Property)",
+        "Rural Areas",
+        "Restoration and Renovation",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Japan",
+        "Tokyo (Japan)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An akiya sat idle in Nagasaki, Japan, earlier this year.",
+          "copyright": "Tim Hornyak",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/05/multimedia/05JAPANHOUSES-10-vfqc/05JAPANHOUSES-10-vfqc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/05/multimedia/05JAPANHOUSES-10-vfqc/05JAPANHOUSES-10-vfqc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/05/multimedia/05JAPANHOUSES-10-vfqc/05JAPANHOUSES-10-vfqc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/83d72be2-06ff-5a6a-af64-4ff601c54d4c",
+      "url": "https://www.nytimes.com/2023/04/18/arts/television/menendez-brothers-menudo-roy-rossello-documentary.html",
+      "id": 100000008845318,
+      "asset_id": 100000008845318,
+      "source": "New York Times",
+      "published_date": "2023-04-18",
+      "updated": "2023-04-19 01:21:31",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Sex Crimes;Murders, Attempted Murders and Homicides;Pop and Rock Music;Documentary Films and Programs;Child Abuse and Neglect;Rossello, Roy (1971- );Menendez, Jose (1944-89);Menendez, Erik;Menendez, Lyle;Menudo",
+      "column": null,
+      "byline": "By Matt Stevens",
+      "type": "Article",
+      "title": "Ex-Member of Menudo Says He Was Raped by Father of the Menendez Brothers",
+      "abstract": "The allegation, made in a forthcoming docuseries, resembles the claims of abuse by the brothers, who were convicted in 1996 of murdering their parents.",
+      "des_facet": [
+        "Sex Crimes",
+        "Murders, Attempted Murders and Homicides",
+        "Pop and Rock Music",
+        "Documentary Films and Programs",
+        "Child Abuse and Neglect"
+      ],
+      "org_facet": [
+        "Menudo"
+      ],
+      "per_facet": [
+        "Rossello, Roy (1971- )",
+        "Menendez, Jose (1944-89)",
+        "Menendez, Erik",
+        "Menendez, Lyle"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Erik Menendez, left, and his brother, Lyle, fatally shot their parents at their Beverly Hills home.",
+          "copyright": "Ted Soqui/Sygma, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/19/multimedia/18Menendez1-lbht/18Menendez1-lbht-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/19/multimedia/18Menendez1-lbht/18Menendez1-lbht-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/19/multimedia/18Menendez1-lbht/18Menendez1-lbht-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bb7ae3c3-4873-52db-b819-499322d534a5",
+      "url": "https://www.nytimes.com/2023/04/21/us/politics/jack-teixeira-leaks-russia-ukraine.html",
+      "id": 100000008870102,
+      "asset_id": 100000008870102,
+      "source": "New York Times",
+      "published_date": "2023-04-21",
+      "updated": "2023-04-22 11:01:42",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "your-feed-visual-investigations;US Intelligence Documents Leak (2023);United States Defense and Military Forces;Russian Invasion of Ukraine (2022);Social Media;Teixeira, Jack;Discord Inc;Russia;Ukraine",
+      "column": null,
+      "byline": "By Aric Toler, Malachy Browne and Julian E. Barnes",
+      "type": "Article",
+      "title": "Airman Shared Sensitive Intelligence More Widely and for Longer Than Previously Known",
+      "abstract": "A Discord user matching the profile of Jack Teixeira distributed intelligence to a larger chat group, days after the beginning of the Ukraine war.",
+      "des_facet": [
+        "your-feed-visual-investigations",
+        "US Intelligence Documents Leak (2023)",
+        "United States Defense and Military Forces",
+        "Russian Invasion of Ukraine (2022)",
+        "Social Media"
+      ],
+      "org_facet": [
+        "Discord Inc"
+      ],
+      "per_facet": [
+        "Teixeira, Jack"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The first leak to Discord appeared to come less than 48 hours into Russia’s invasion of Ukraine in February 2022.",
+          "copyright": "Tyler Hicks/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/21/multimedia/21dc-leaks-lmqw/21dc-leaks-lmqw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/21/multimedia/21dc-leaks-lmqw/21dc-leaks-lmqw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/21/multimedia/21dc-leaks-lmqw/21dc-leaks-lmqw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/52498778-c3cc-5f9a-afb6-9f217abe6b06",
+      "url": "https://www.nytimes.com/2023/04/22/theater/barry-humphries-dead.html",
+      "id": 100000006701151,
+      "asset_id": 100000006701151,
+      "source": "New York Times",
+      "published_date": "2023-04-22",
+      "updated": "2023-04-23 11:17:16",
+      "section": "Theater",
+      "subsection": "",
+      "nytdsection": "theater",
+      "adx_keywords": "Deaths (Obituaries);Actors and Actresses;Comedy and Humor;Theater;Television;Humphries, Barry;Australia",
+      "column": null,
+      "byline": "By Margalit Fox",
+      "type": "Article",
+      "title": "Barry Humphries (Dame Edna to You, Possums) Is Dead at 89",
+      "abstract": "Bewigged, bejeweled and bejowled, Mr. Humphries’s creation was one of the longest-lived characters ever channeled by a single performer.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Actors and Actresses",
+        "Comedy and Humor",
+        "Theater",
+        "Television"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Humphries, Barry"
+      ],
+      "geo_facet": [
+        "Australia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Barry Humphries as Dame Edna Everage in the one-person show “Dame Edna: Back With a Vengeance” at the Music Box Theater on Broadway in 2004.",
+          "copyright": "Sara Krulwich/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/23/multimedia/00Humphries1-pwzh/00Humphries1-pwzh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/23/multimedia/00Humphries1-pwzh/00Humphries1-pwzh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/23/multimedia/00Humphries1-pwzh/00Humphries1-pwzh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/276db875-c0b3-501c-a7de-dd7fbb78ddcb",
+      "url": "https://www.nytimes.com/2023/04/20/magazine/sandy-hook-mass-shooting-scenes.html",
+      "id": 100000008858469,
+      "asset_id": 100000008858469,
+      "source": "New York Times",
+      "published_date": "2023-04-20",
+      "updated": "2023-04-23 13:04:02",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "Newtown, Conn, Shooting (2012);Firearms;Police;School Shootings and Armed Attacks;Mass Shootings;Holder, Eric H Jr;Newtown (Conn)",
+      "column": null,
+      "byline": "By Jay Kirk",
+      "type": "Article",
+      "title": "They Saw the Horrific Aftermath of a Mass Shooting. Should We?",
+      "abstract": "The crime-scene investigators are the ones who document, and remember, the unimaginable. This is what they saw at Sandy Hook.",
+      "des_facet": [
+        "Newtown, Conn, Shooting (2012)",
+        "Firearms",
+        "Police",
+        "School Shootings and Armed Attacks",
+        "Mass Shootings"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Holder, Eric H Jr"
+      ],
+      "geo_facet": [
+        "Newtown (Conn)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Detectives Art Walkley, left, and Karoline Keith and Sgt. Jeff Covello, crime-scene investigators for the Connecticut State Police.",
+          "copyright": "Elinor Carucci for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/23/magazine/23sandyhook-opener/23sandyhook-opener-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/23/magazine/23sandyhook-opener/23sandyhook-opener-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/23/magazine/23sandyhook-opener/23sandyhook-opener-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/70d281ca-d473-5f2e-8a22-7860697942d0",
+      "url": "https://www.nytimes.com/2023/04/18/nyregion/kaylin-gillis-ny-shooting.html",
+      "id": 100000008863767,
+      "asset_id": 100000008863767,
+      "source": "New York Times",
+      "published_date": "2023-04-18",
+      "updated": "2023-04-19 11:44:10",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Gillis, Kaylin (2003-23);Monahan, Kevin D (1957- );Hebron (NY)",
+      "column": null,
+      "byline": "By Jesse McKinley, Hurubie Meko and Jay Root",
+      "type": "Article",
+      "title": "New Details Emerge in Deadly Upstate Shooting of Woman in Wrong Driveway",
+      "abstract": "The man who fired on three vehicles that mistakenly drove up his driveway, killing a young woman, had a reputation as a sour character who did not like visitors.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Gillis, Kaylin (2003-23)",
+        "Monahan, Kevin D (1957- )"
+      ],
+      "geo_facet": [
+        "Hebron (NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kevin Monahan’s home lies at the end of a long driveway.",
+          "copyright": "Benjamin Cleeton for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/18/multimedia/18ny-shooting-01-whlv/18ny-shooting-01-whlv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/18/multimedia/18ny-shooting-01-whlv/18ny-shooting-01-whlv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/18/multimedia/18ny-shooting-01-whlv/18ny-shooting-01-whlv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/22d68828-3508-52aa-9aee-f7055baeea87",
+      "url": "https://www.nytimes.com/2023/04/17/us/murphy-bald-eagle-rock.html",
+      "id": 100000008861363,
+      "asset_id": 100000008861363,
+      "source": "New York Times",
+      "published_date": "2023-04-17",
+      "updated": "2023-04-19 13:24:09",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Bald Eagles;Eggs;Animal Behavior;internal-open-access-search;World Bird Sanctuary (Valley Park, Mo)",
+      "column": null,
+      "byline": "By Livia Albeck-Ripka",
+      "type": "Article",
+      "title": "An Eagle Who Adopted a Rock Becomes a Real Dad",
+      "abstract": "Murphy, a bald eagle at a bird sanctuary in Valley Park, Mo., had been incubating a rock, and his keepers did not have the heart to separate them. He seemed ready when an eaglet needed a dad.",
+      "des_facet": [
+        "Bald Eagles",
+        "Eggs",
+        "Animal Behavior",
+        "internal-open-access-search"
+      ],
+      "org_facet": [
+        "World Bird Sanctuary (Valley Park, Mo)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Murphy, a bald eagle that had been showing fatherly instincts, has been sharing an enclosure with an eaglet that survived a fall from a tree during a storm in Ste. Genevieve, Mo.",
+          "copyright": "World Bird Sanctuary",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/16/multimedia/16xp-eagle-02/16xp-eagle-02-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/16/multimedia/16xp-eagle-02/16xp-eagle-02-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/16/multimedia/16xp-eagle-02/16xp-eagle-02-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3a1176ec-c686-5466-91be-868d4173943a",
+      "url": "https://www.nytimes.com/2023/03/20/well/colon-colorectal-cancer-symptoms-screening.html",
+      "id": 100000008802332,
+      "asset_id": 100000008802332,
+      "source": "New York Times",
+      "published_date": "2023-03-20",
+      "updated": "2023-04-24 04:19:07",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Colon and Colorectal Cancer;Cancer;Colon;Research;Colonoscopy;Content Type: Service;Age, Chronological",
+      "column": null,
+      "byline": "By Trisha Pasricha",
+      "type": "Article",
+      "title": "Colon Cancer Is Rising Among Younger Adults. Here’s What to Know.",
+      "abstract": "With cases projected to continue climbing through 2023, scientists are racing to understand why.",
+      "des_facet": [
+        "Colon and Colorectal Cancer",
+        "Cancer",
+        "Colon",
+        "Research",
+        "Colonoscopy",
+        "Content Type: Service",
+        "Age, Chronological"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eiko Ojala",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/03/28/multimedia/17Well-ColonCancer/17Well-ColonCancer-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/03/28/multimedia/17Well-ColonCancer/17Well-ColonCancer-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/03/28/multimedia/17Well-ColonCancer/17Well-ColonCancer-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c0651898-de3b-5e71-b133-5769474807d3",
+      "url": "https://www.nytimes.com/2023/04/22/us/politics/supreme-court-abortion-pill-roe-wade.html",
+      "id": 100000008870893,
+      "asset_id": 100000008870893,
+      "source": "New York Times",
+      "published_date": "2023-04-22",
+      "updated": "2023-04-23 14:07:10",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Mifeprex (RU-486);Abortion Drugs;Abortion;Decisions and Verdicts;Suits and Litigation (Civil);Kacsmaryk, Matthew;Alito, Samuel A Jr;Supreme Court (US);Alliance for Hippocratic Medicine;Danco Laboratories;Food and Drug Administration;Texas",
+      "column": null,
+      "byline": "By Adam Liptak",
+      "type": "Article",
+      "title": "In Abortion Pill Ruling, the Supreme Court Trades Ambition for Prudence",
+      "abstract": "The court’s order seemed to vindicate a commitment in last year’s decision in Dobbs: to leave further questions about abortion to the political process.",
+      "des_facet": [
+        "Mifeprex (RU-486)",
+        "Abortion Drugs",
+        "Abortion",
+        "Decisions and Verdicts",
+        "Suits and Litigation (Civil)"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Alliance for Hippocratic Medicine",
+        "Danco Laboratories",
+        "Food and Drug Administration"
+      ],
+      "per_facet": [
+        "Kacsmaryk, Matthew",
+        "Alito, Samuel A Jr"
+      ],
+      "geo_facet": [
+        "Texas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court on Friday. Counting votes on the Supreme Court when cases reach it on what critics call its shadow docket is an inexact science, as justices can dissent without saying so publicly.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/22/multimedia/22dc-scotus-topart-01-hklt/22dc-scotus-topart-01-hklt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/22/multimedia/22dc-scotus-topart-01-hklt/22dc-scotus-topart-01-hklt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/22/multimedia/22dc-scotus-topart-01-hklt/22dc-scotus-topart-01-hklt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2187fc23-9030-53bf-a400-ea7d0a583345",
+      "url": "https://www.nytimes.com/2023/04/19/arts/music/moonbin-kpop-astro-dead.html",
+      "id": 100000008866598,
+      "asset_id": 100000008866598,
+      "source": "New York Times",
+      "published_date": "2023-04-19",
+      "updated": "2023-04-20 11:25:06",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "K-Pop;Pop and Rock Music;Deaths (Obituaries);Moonbin (1998-2023);ASTRO (Korean Music Group)",
+      "column": null,
+      "byline": "By Livia Albeck-Ripka",
+      "type": "Article",
+      "title": "Moonbin, Member of K-Pop Band ASTRO, Dies at 25",
+      "abstract": "The K-pop star was found dead on Wednesday at his home in Seoul.",
+      "des_facet": [
+        "K-Pop",
+        "Pop and Rock Music",
+        "Deaths (Obituaries)"
+      ],
+      "org_facet": [
+        "ASTRO (Korean Music Group)"
+      ],
+      "per_facet": [
+        "Moonbin (1998-2023)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The South Korean singer Moonbin in January.",
+          "copyright": "The Chosunilbo JNS/Imazins via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/19/multimedia/19xp-moonbin/19xp-moonbin-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/19/multimedia/19xp-moonbin/19xp-moonbin-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/19/multimedia/19xp-moonbin/19xp-moonbin-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ffbad159-7528-5350-bdf0-3790b6f3cc21",
+      "url": "https://www.nytimes.com/2023/04/24/arts/television/len-goodman-dead.html",
+      "id": 100000008871995,
+      "asset_id": 100000008871995,
+      "source": "New York Times",
+      "published_date": "2023-04-24",
+      "updated": "2023-04-25 12:53:56",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Deaths (Obituaries);Dancing;Reality Television;Goodman, Len (1944-2023)",
+      "column": null,
+      "byline": "By Jenny Gross",
+      "type": "Article",
+      "title": "Len Goodman, ‘Dancing With the Stars’ Judge, Dies at 78",
+      "abstract": "Mr. Goodman, who was also a longtime judge on the British show “Strictly Come Dancing,” was known for his wry humor, wit and colorful phrases.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Dancing",
+        "Reality Television"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Goodman, Len (1944-2023)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Len Goodman in 2007. He judged contestants on “Strictly Come Dancing” and “Dancing With the Stars” for more than a decade.",
+          "copyright": "Fred Prouser/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/24/multimedia/24xp-lengoodman1-vpkb/24xp-lengoodman1-vpkb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/24/multimedia/24xp-lengoodman1-vpkb/24xp-lengoodman1-vpkb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/24/multimedia/24xp-lengoodman1-vpkb/24xp-lengoodman1-vpkb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5b75cc97-49e7-560c-a638-0b5a9de56628",
+      "url": "https://www.nytimes.com/2023/04/23/business/bed-bath-beyond-bankruptcy.html",
+      "id": 100000008717548,
+      "asset_id": 100000008717548,
+      "source": "New York Times",
+      "published_date": "2023-04-23",
+      "updated": "2023-04-24 15:33:55",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "E-Commerce;Shopping and Retail;Bankruptcies;Bed Bath \u0026 Beyond Inc",
+      "column": null,
+      "byline": "By Jordyn Holman and Lauren Hirsch",
+      "type": "Article",
+      "title": "Bed Bath \u0026 Beyond Files for Bankruptcy",
+      "abstract": "The company, which failed to fully reckon with the rise of online shopping, said that store closing sales would begin on Wednesday.",
+      "des_facet": [
+        "E-Commerce",
+        "Shopping and Retail",
+        "Bankruptcies"
+      ],
+      "org_facet": [
+        "Bed Bath \u0026 Beyond Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paul Sakuma/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/23/multimedia/23bed-bath-promo-qcvb/23bed-bath-promo-qcvb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/23/multimedia/23bed-bath-promo-qcvb/23bed-bath-promo-qcvb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/23/multimedia/23bed-bath-promo-qcvb/23bed-bath-promo-qcvb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
